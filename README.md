@@ -1,0 +1,1 @@
+Coursework for Computer Vision subject, 1st semester, MSc Artificial Intelligence, University of Southampton.
